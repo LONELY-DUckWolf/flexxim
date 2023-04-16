@@ -1,28 +1,28 @@
 .box1 {                                                             
     background-color: blue;
-    height: 50px;
-    width: 50px;
+    height: 200px;
+    width: 200px;
     border: 5px solid greenyellow;
 }
 
 .box2 {
     background-color: blue;
-    height: 50px;
-    width: 50px;
+    height: 200px;
+    width: 200px;
     border: 5px solid greenyellow;
 }
 
 .box3 {
     background-color: blue;
-    height: 50px;
-    width: 50px;
+    height: 200px;
+    width: 200px;
     border: 5px solid greenyellow;
 }
 
 .box4 {
     background-color: blue;
-    height: 50px;
-    width: 50px;
+    height: 200px;
+    width: 200px;
     border: 5px solid greenyellow;
 }
 
@@ -30,30 +30,31 @@
 .boxing1 {
     display: flex;
     justify-content: space-around;
-    width: 235px;
+    width: 835px;
 }
 
 .boxing2 {
     display: flex;
     justify-content: space-between;
-    width: 235px;
+    width: 835px;
 }
 
 .boxing3 {
     display: flex;
     justify-content: flex-start;
+    width: 840px;
 }
 
 .boxing4 {
     display: flex;
     justify-content: space-between;
-    width: 235px;
+    width: 835px;
 }
 
 .boxing5 {
     display: flex;
     justify-content: space-between;
-    width: 235px;
+    width: 835px;
 }
 
 
