@@ -1,0 +1,66 @@
+.box1 {                                                             
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    border: 5px solid greenyellow;
+}
+
+.box2 {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    border: 5px solid greenyellow;
+}
+
+.box3 {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    border: 5px solid greenyellow;
+}
+
+.box4 {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    border: 5px solid greenyellow;
+}
+
+
+.boxing1 {
+    display: flex;
+    justify-content: space-around;
+    width: 235px;
+}
+
+.boxing2 {
+    display: flex;
+    justify-content: space-between;
+    width: 235px;
+}
+
+.boxing3 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.boxing4 {
+    display: flex;
+    justify-content: space-between;
+    width: 235px;
+}
+
+.boxing5 {
+    display: flex;
+    justify-content: space-between;
+    width: 235px;
+}
+
+
+
+
+.hello {
+    background-image:radial-gradient(circle at center, black, rgb(16, 0, 61), rgb(12, 0, 142), rgb(0, 0, 177), blueviolet, blue  );
+}
+
+
